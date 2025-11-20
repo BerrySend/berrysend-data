@@ -1,0 +1,58 @@
+Puerto de origen;Pais de destino;Puerto de destino;Ruta;Dias de transito;Fuente
+"Callao;United States;Miami;Callao -> Balboa (Panamá) -> Miami;16-18;""PROMPERU; COCATRAM"""
+"Callao;United States;Los Angeles;Callao -> Manzanillo (PAN) -> Los Angeles;20-24;""PROMPERU; COCATRAM"""
+Callao;United States;New York;Callao -> Balboa -> Cartagena -> New York;24-28;PROMPERU
+Callao;Spain;Valencia;Callao -> Balboa -> Cartagena -> Caucedo -> Valencia;35-37;PROMPERU
+"Callao;Netherlands;Rotterdam;Callao -> Balboa -> Rotterdam;33-36;""PROMPERU; COCATRAM"""
+Callao;China;Shanghai;Callao -> Manzanillo (PAN) -> Shanghai (según naviera);30-33;PROMPERU
+Callao;China;Ningbo;Callao -> Manzanillo (PAN) -> Ningbo;30-34;PROMPERU
+Callao;Hong Kong;Hong Kong;Callao -> transbordo en Panamá o Ecuador -> Hong Kong;30-35;PROMPERU
+Callao;Japan;Tokyo;Callao -> transbordo (Panamá/US West) -> Tokyo;34-38;PROMPERU
+Callao;South Korea;Busan;Callao -> Manzanillo (PAN) -> Busan;32-36;PROMPERU
+"Callao;Brazil;Santos;Callao -> transbordo regional o cabotaje -> Santos;5-8;""OSITRAN; ENAPU"""
+Callao;Chile;San Antonio;Callao -> ruta cabotaje/regional -> San Antonio;3-6;OSITRAN
+Callao;Colombia;Cartagena;Callao -> Guayaquil -> Buenaventura -> Cartagena;6-9;COCATRAM
+"Callao;Panama;Balboa;Callao -> Balboa (Panamá);3-5;""PROMPERU; COCATRAM"""
+Callao;United Kingdom;LondonGateway;Callao -> Balboa -> London Gateway;34-38;PROMPERU
+Callao;Italy;Genoa;Callao -> transbordo Caribe/Europa -> Genoa;34-38;PROMPERU
+Callao;Germany;Hamburg;Callao -> transbordo Panamá/Caribe -> Hamburg;34-40;PROMPERU
+Callao;France;Le Havre;Callao -> Balboa -> Le Havre;34-38;PROMPERU
+Callao;Mexico;Manzanillo;Callao -> Manzanillo (PAN) -> Manzanillo (MEX);18-22;COCATRAM
+"Callao;Ecuador;Guayaquil;Callao -> Guayaquil (directa/regional);1-3;""COCATRAM; OSITRAN"""
+Callao;Colombia;Buenaventura;Callao -> Buenaventura (Colombia) -> transbordo regional;4-7;COCATRAM
+Callao;Australia;Sydney;Callao -> transbordo en Panamá/Chile -> Sydney;40-50;PROMPERU
+Callao;New Zealand;Auckland;Callao -> transbordo Australia -> Auckland;42-52;PROMPERU
+Callao;Panama;Manzanillo;Callao -> Manzanillo (PAN) - hub Pacific;3-5;COCATRAM
+Callao;Dominican Republic;Caucedo;Callao -> Balboa -> Caucedo;20-24;PROMPERU
+Callao;Belgium;Antwerp;Callao -> Balboa -> Antwerp;34-38;PROMPERU
+Callao;Portugal;Leixoes;Callao -> Balboa -> Leixoes/Portugal;34-38;PROMPERU
+Callao;Peru;Paita;Callao -> cabotaje/redistribución norte;12--25;OSITRAN
+"Paita;United States;Los Angeles;Paita -> Manzanillo (PAN) -> Los Angeles;18-22;""PROMPERU; COCATRAM"""
+Paita;United States;Miami;Paita -> transbordo -> Miami;20-24;PROMPERU
+Paita;China;Shanghai;Paita -> transbordo Manzanillo PAN -> Shanghai;28-33;PROMPERU
+Paita;Ecuador;Guayaquil;Paita -> Guayaquil (regional);1-3;COCATRAM
+"Matarani;China;Shanghai;Matarani -> transbordo en Mercosur o PAN -> Shanghai;30-36;""OSITRAN; PROMPERU"""
+Matarani;United States;Los Angeles;Matarani -> transbordo -> Los Angeles;20-26;OSITRAN
+Matarani;Brazil;Santos;Matarani -> Santos (cabotaje/regional);6-10;OSITRAN
+Matarani;Chile;Valparaiso;Matarani -> Valparaiso (ruta pacífico sur);3-6;OSITRAN
+Matarani;Peru;Ilo;Matarani -> Ilo (redistribución sur);4 -- 20;ENAPU/OSITRAN
+"Chancay;China;Shanghai;Chancay -> transbordo/hub -> Shanghai;23-30;""PROMPERU; navieras (reportes de servicio)"""
+Chancay;United States;Miami;Chancay -> Balboa -> Miami;18-22;PROMPERU
+Chancay;Netherlands;Rotterdam;Chancay -> Balboa -> Rotterdam;33-36;PROMPERU
+Salaverry;Chile;San Antonio;Salaverry -> cabotaje/regional -> San Antonio;4-7;OSITRAN
+Salaverry;United States;Los Angeles;Salaverry -> transbordo -> Los Angeles;18-24;OSITRAN
+Ilo;Chile;Arica;Ilo -> Arica (cabotaje regional);2-4;OSITRAN
+Ilo;Peru;Matarani;Ilo -> Matarani (redistribución regional);16-17;OSITRAN
+Chimbote;Peru;Callao;Chimbote -> Callao (redistribución);9--20;OSITRAN
+Pisco;United States;Miami;Pisco -> transbordo -> Miami;20-28;PROMPERU
+Pisco;Chile;San Antonio;Pisco -> transbordo -> San Antonio;6-10;OSITRAN
+Huacho;Peru;Callao;Huacho -> Callao (redistribución);1--2;OSITRAN
+Talara;Peru;Paita;Talara -> Paita (redistribución norte);1--2;OSITRAN
+Paita;Netherlands;Rotterdam;Paita -> Manzanillo (PAN) -> Rotterdam;34-38;PROMPERU
+Callao;Russia;Saint Petersburg;Callao -> transbordo Europa -> St Petersburg;36-44;PROMPERU
+Callao;United Kingdom;Southampton;Callao -> Balboa -> Southampton;34-38;PROMPERU
+Callao;India;Mundra;Callao -> transbordo -> Mundra (India);36-45;PROMPERU
+Callao;United Arab Emirates;Jebel Ali;Callao -> transbordo -> Jebel Ali;36-44;PROMPERU
+Callao;Posorja (Ecuador);Posorja;Callao -> Posorja -> Guayaquil;5--7;COCATRAM
+Callao;Honduras;Puerto Cortes;Callao -> transbordo -> Puerto Cortes;20-28;COCATRAM
+Callao;Buenaventura;Buenaventura;Callao -> Buenaventura (Colombia);4-7;COCATRAM
