@@ -1,0 +1,40 @@
+name,country,latitude,longitude,in_graph_type,capacity,port_type
+Lima,Peru,-12.0219,-77.1143,initial,500000.0,air
+Miami (MIA USA),United States,25.7959,-80.2871,destination,2000000.0,air
+Los Angeles (LAX USA),United States,33.9416,-118.4085,destination,3000000.0,air
+New York (JFK USA),United States,40.6413,-73.7781,destination,2500000.0,air
+Chicago (ORD USA),United States,41.9742,-87.9073,destination,2800000.0,air
+Houston (IAH USA),United States,29.9902,-95.3368,destination,1800000.0,air
+Charlotte (CLT USA),United States,35.2144,-80.9473,destination,1500000.0,air
+Seattle (SEA USA),United States,47.4502,-122.3088,destination,1600000.0,air
+Toronto (YYZ Canada),Canada,43.6777,-79.6248,destination,1900000.0,air
+Montreal (YUL Canada),Canada,45.4706,-73.7408,destination,1000000.0,air
+Mexico City (MEX Mexico),Mexico,19.4363,-99.0721,intermediate,2000000.0,air
+Guadalajara (GDL Mexico),Mexico,20.5218,-103.3106,intermediate,700000.0,air
+Sao Paulo (GRU Brazil),Brazil,-23.4356,-46.4731,destination,1800000.0,air
+Rio de Janeiro (GIG Brazil),Brazil,-22.8099,-43.2505,destination,900000.0,air
+Buenos Aires (EZE Argentina),Argentina,-34.8222,-58.5358,destination,1100000.0,air
+Santiago (SCL Chile),Chile,-33.3930,-70.7858,intermediate,1200000.0,air
+Montevideo (MVD Uruguay),Uruguay,-34.8384,-56.0308,destination,400000.0,air
+Asuncion (ASU Paraguay),Paraguay,-25.2397,-57.5194,destination,300000.0,air
+Quito (UIO Ecuador),Ecuador,-0.1292,-78.3575,intermediate,600000.0,air
+Guayaquil (GYE Ecuador),Ecuador,-2.1574,-79.8883,intermediate,500000.0,air
+Bogota (BOG Colombia),Colombia,4.7016,-74.1469,intermediate,1500000.0,air
+Medellin (EOH Colombia),Colombia,6.1645,-75.4234,intermediate,400000.0,air
+Panama City (PTY Panama),Panama,9.0714,-79.3834,intermediate,800000.0,air
+San Jose (SJO Costa Rica),Costa Rica,9.9939,-84.2088,intermediate,500000.0,air
+San Salvador (SAL El Salvador),El Salvador,13.4409,-89.0559,intermediate,300000.0,air
+Guatemala City (GUA Guatemala),Guatemala,14.5833,-90.5275,intermediate,400000.0,air
+Havana (HAV Cuba),Cuba,22.9892,-82.4091,destination,350000.0,air
+Shanghai (PVG China),China,31.1434,121.8052,destination,3500000.0,air
+Beijing (PEK China),China,40.0799,116.6031,destination,3000000.0,air
+Guangzhou (CAN China),China,23.3924,113.2988,destination,2500000.0,air
+Hong Kong (HKG China),China,22.3080,113.9185,destination,2800000.0,air
+Seoul (ICN South Korea),South Korea,37.4602,126.4407,destination,2600000.0,air
+Tokyo (NRT Japan),Japan,35.7720,140.3929,destination,2000000.0,air
+Osaka (KIX Japan),Japan,34.4273,135.2444,destination,1500000.0,air
+Singapore (SIN Singapore),Singapore,1.3644,103.9915,destination,3200000.0,air
+Bangkok (BKK Thailand),Thailand,13.6900,100.7501,destination,2400000.0,air
+Manila (MNL Philippines),Philippines,14.5086,121.0194,destination,1800000.0,air
+Delhi (DEL India),India,28.5562,77.1000,destination,2200000.0,air
+Jakarta (CGK Indonesia),Indonesia,-6.1275,106.6537,destination,2000000.0,air
