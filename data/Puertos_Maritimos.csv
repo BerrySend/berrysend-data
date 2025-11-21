@@ -1,0 +1,42 @@
+name,country,latitude,longitude,in_graph_type,capacity,port_type
+Callao,Peru,-12.0464,-77.1428,initial,1000000.0,maritime
+Paita,Peru,-5.0892,-81.1144,initial,500000.0,maritime
+Matarani,Peru,-17.0000,-72.1000,initial,300000.0,maritime
+Chancay,Peru,-11.5658,-77.2694,initial,800000.0,maritime
+Salaverry,Peru,-8.2167,-78.9833,initial,200000.0,maritime
+Ilo,Peru,-17.6400,-71.3375,initial,150000.0,maritime
+Pisco,Peru,-13.7097,-76.2050,initial,100000.0,maritime
+Miami,United States,25.7743,-80.1937,destination,5000000.0,maritime
+Los Angeles,United States,33.7405,-118.2713,destination,9000000.0,maritime
+New York,United States,40.6895,-74.0445,destination,7000000.0,maritime
+Santos,Brazil,-23.9608,-46.3336,destination,4000000.0,maritime
+Valparaiso,Chile,-33.0472,-71.6127,intermediate,1200000.0,maritime
+San Antonio,Chile,-33.5933,-71.6208,intermediate,800000.0,maritime
+Arica,Chile,-18.4783,-70.3133,intermediate,300000.0,maritime
+Cartagena,Colombia,10.3910,-75.4794,intermediate,2500000.0,maritime
+Buenaventura,Colombia,3.8667,-77.0333,intermediate,1500000.0,maritime
+Guayaquil,Ecuador,-2.1894,-79.8867,intermediate,1800000.0,maritime
+Posorja,Ecuador,-2.7500,-80.2000,intermediate,500000.0,maritime
+Balboa,Panama,8.9500,-79.5667,intermediate,3500000.0,maritime
+Manzanillo,Panama,9.3667,-79.9167,intermediate,3000000.0,maritime
+Puerto Cortes,Honduras,15.8333,-87.9333,intermediate,1000000.0,maritime
+Caucedo,Dominican Republic,18.4167,-69.6167,intermediate,1200000.0,maritime
+Valencia,Spain,39.4561,-0.3545,destination,5000000.0,maritime
+Rotterdam,Netherlands,51.9225,4.4792,destination,14000000.0,maritime
+LondonGateway,United Kingdom,51.5000,0.5667,destination,1800000.0,maritime
+Southampton,United Kingdom,50.9025,-1.4042,destination,1700000.0,maritime
+Genoa,Italy,44.4056,8.9463,destination,2500000.0,maritime
+Hamburg,Germany,53.5511,9.9937,destination,8700000.0,maritime
+Le Havre,France,49.4944,0.1079,destination,2900000.0,maritime
+Antwerp,Belgium,51.2194,4.4025,destination,11000000.0,maritime
+Leixoes,Portugal,41.1833,-8.7000,destination,600000.0,maritime
+Shanghai,China,31.2304,121.4737,destination,43000000.0,maritime
+Ningbo,China,29.8683,121.5440,destination,28000000.0,maritime
+Hong Kong,Hong Kong,22.3193,114.1694,destination,18000000.0,maritime
+Tokyo,Japan,35.6528,139.8395,destination,4700000.0,maritime
+Busan,South Korea,35.1796,129.0756,destination,21000000.0,maritime
+Sydney,Australia,-33.8688,151.2093,destination,2500000.0,maritime
+Auckland,New Zealand,-36.8485,174.7633,destination,900000.0,maritime
+Mundra,India,22.8333,69.7167,destination,4400000.0,maritime
+Jebel Ali,United Arab Emirates,25.0118,55.0618,destination,14000000.0,maritime
+Saint Petersburg,Russia,59.9343,30.3351,destination,2000000.0,maritime
