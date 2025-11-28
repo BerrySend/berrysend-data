@@ -1,0 +1,108 @@
+port_a_name,port_b_name,distance_km,time_hours,cost_usd,route_type,is_restricted
+Lima,Miami (MIA USA),4200,6,8000,air,false
+Lima,Los Angeles (LAX USA),6100,9,11500,air,false
+Lima,New York (JFK USA),5900,8.5,11000,air,false
+Lima,Chicago (ORD USA),6300,9.5,12000,air,false
+Lima,Houston (IAH USA),5100,7.5,9800,air,false
+Lima,Mexico City (MEX Mexico),4000,6,7800,air,false
+Lima,Bogota (BOG Colombia),1900,3,4500,air,false
+Lima,Santiago (SCL Chile),2400,3.5,5200,air,false
+Lima,Buenos Aires (EZE Argentina),3200,5,6800,air,false
+Lima,Sao Paulo (GRU Brazil),3300,5,7000,air,false
+Miami (MIA USA),New York (JFK USA),1750,3,4200,air,false
+Miami (MIA USA),Los Angeles (LAX USA),3750,5.5,7800,air,false
+Miami (MIA USA),Chicago (ORD USA),2000,3,4500,air,false
+Miami (MIA USA),Houston (IAH USA),1600,2.5,3800,air,false
+Miami (MIA USA),Charlotte (CLT USA),1050,2,2800,air,false
+Miami (MIA USA),Seattle (SEA USA),4400,6.5,9200,air,false
+Miami (MIA USA),Toronto (YYZ Canada),2100,3.5,4800,air,false
+Miami (MIA USA),Mexico City (MEX Mexico),2050,3.5,4600,air,false
+Miami (MIA USA),Panama City (PTY Panama),1900,3,4200,air,false
+Miami (MIA USA),Bogota (BOG Colombia),2450,4,5500,air,false
+Miami (MIA USA),Sao Paulo (GRU Brazil),6600,9.5,13000,air,false
+Los Angeles (LAX USA),New York (JFK USA),3950,5.5,8200,air,false
+Los Angeles (LAX USA),Chicago (ORD USA),2800,4,6000,air,false
+Los Angeles (LAX USA),Houston (IAH USA),2200,3.5,5000,air,false
+Los Angeles (LAX USA),Seattle (SEA USA),1550,2.5,3600,air,false
+Los Angeles (LAX USA),Mexico City (MEX Mexico),2500,4,5500,air,false
+Los Angeles (LAX USA),Tokyo (NRT Japan),8800,12,18000,air,false
+Los Angeles (LAX USA),Shanghai (PVG China),10500,14,21000,air,false
+Los Angeles (LAX USA),Hong Kong (HKG China),11200,15,22500,air,false
+Los Angeles (LAX USA),Seoul (ICN South Korea),9500,13,19500,air,false
+New York (JFK USA),Chicago (ORD USA),1150,2,3200,air,false
+New York (JFK USA),Houston (IAH USA),2400,3.5,5200,air,false
+New York (JFK USA),Charlotte (CLT USA),850,1.5,2500,air,false
+New York (JFK USA),Seattle (SEA USA),3900,5.5,8000,air,false
+New York (JFK USA),Toronto (YYZ Canada),550,1.5,1800,air,false
+New York (JFK USA),Montreal (YUL Canada),530,1.5,1750,air,false
+New York (JFK USA),Mexico City (MEX Mexico),3350,5,7200,air,false
+New York (JFK USA),Sao Paulo (GRU Brazil),7700,11,15000,air,false
+New York (JFK USA),Buenos Aires (EZE Argentina),8500,12,16500,air,false
+New York (JFK USA),Santiago (SCL Chile),8200,11.5,16000,air,false
+Chicago (ORD USA),Houston (IAH USA),1550,2.5,3700,air,false
+Chicago (ORD USA),Seattle (SEA USA),2800,4,6000,air,false
+Chicago (ORD USA),Toronto (YYZ Canada),700,1.5,2100,air,false
+Chicago (ORD USA),Mexico City (MEX Mexico),2700,4,5800,air,false
+Houston (IAH USA),Seattle (SEA USA),3100,4.5,6800,air,false
+Houston (IAH USA),Mexico City (MEX Mexico),1200,2,3200,air,false
+Houston (IAH USA),Bogota (BOG Colombia),3200,5,7000,air,false
+Charlotte (CLT USA),Toronto (YYZ Canada),900,2,2600,air,false
+Seattle (SEA USA),Tokyo (NRT Japan),7700,11,15500,air,false
+Seattle (SEA USA),Shanghai (PVG China),9200,13,18500,air,false
+Seattle (SEA USA),Seoul (ICN South Korea),8200,12,16500,air,false
+Toronto (YYZ Canada),Montreal (YUL Canada),500,1.5,1600,air,false
+Mexico City (MEX Mexico),Guadalajara (GDL Mexico),550,1.5,1700,air,false
+Mexico City (MEX Mexico),Guatemala City (GUA Guatemala),1200,2,3200,air,false
+Mexico City (MEX Mexico),San Jose (SJO Costa Rica),2000,3.5,4800,air,false
+Mexico City (MEX Mexico),Panama City (PTY Panama),2600,4,5800,air,false
+Mexico City (MEX Mexico),Bogota (BOG Colombia),3400,5,7500,air,false
+Mexico City (MEX Mexico),Havana (HAV Cuba),2000,3.5,4800,air,false
+Sao Paulo (GRU Brazil),Rio de Janeiro (GIG Brazil),350,1,1400,air,false
+Sao Paulo (GRU Brazil),Buenos Aires (EZE Argentina),1700,2.5,4200,air,false
+Sao Paulo (GRU Brazil),Santiago (SCL Chile),2100,3.5,5000,air,false
+Sao Paulo (GRU Brazil),Montevideo (MVD Uruguay),1850,3,4500,air,false
+Buenos Aires (EZE Argentina),Santiago (SCL Chile),1150,2,3100,air,false
+Buenos Aires (EZE Argentina),Montevideo (MVD Uruguay),200,0.5,900,air,false
+Buenos Aires (EZE Argentina),Asuncion (ASU Paraguay),1100,2,3000,air,false
+Santiago (SCL Chile),Montevideo (MVD Uruguay),1800,3,4300,air,false
+Quito (UIO Ecuador),Guayaquil (GYE Ecuador),280,0.75,1100,air,false
+Quito (UIO Ecuador),Bogota (BOG Colombia),700,1.5,2200,air,false
+Guayaquil (GYE Ecuador),Bogota (BOG Colombia),950,2,2800,air,false
+Guayaquil (GYE Ecuador),Lima,1200,2.5,3500,air,false
+Bogota (BOG Colombia),Medellin (EOH Colombia),240,0.75,1000,air,false
+Bogota (BOG Colombia),Panama City (PTY Panama),900,2,2700,air,false
+Bogota (BOG Colombia),San Jose (SJO Costa Rica),1400,2.5,3800,air,false
+Panama City (PTY Panama),San Jose (SJO Costa Rica),580,1.5,1900,air,false
+Panama City (PTY Panama),San Salvador (SAL El Salvador),1100,2,3100,air,false
+Panama City (PTY Panama),Guatemala City (GUA Guatemala),1450,2.5,3900,air,false
+San Jose (SJO Costa Rica),San Salvador (SAL El Salvador),550,1.5,1800,air,false
+San Salvador (SAL El Salvador),Guatemala City (GUA Guatemala),200,0.75,900,air,false
+Guatemala City (GUA Guatemala),Havana (HAV Cuba),1500,2.5,4000,air,false
+Shanghai (PVG China),Beijing (PEK China),1100,2,3200,air,false
+Shanghai (PVG China),Guangzhou (CAN China),1200,2.5,3500,air,false
+Shanghai (PVG China),Hong Kong (HKG China),1200,2.5,3500,air,false
+Shanghai (PVG China),Seoul (ICN South Korea),850,2,2800,air,false
+Shanghai (PVG China),Tokyo (NRT Japan),1800,3,5000,air,false
+Shanghai (PVG China),Osaka (KIX Japan),1600,2.5,4500,air,false
+Shanghai (PVG China),Singapore (SIN Singapore),3800,5.5,9000,air,false
+Shanghai (PVG China),Bangkok (BKK Thailand),2900,4.5,7200,air,false
+Shanghai (PVG China),Manila (MNL Philippines),1800,3,5000,air,false
+Beijing (PEK China),Seoul (ICN South Korea),950,2,3000,air,false
+Beijing (PEK China),Tokyo (NRT Japan),2100,3.5,5500,air,false
+Guangzhou (CAN China),Hong Kong (HKG China),130,0.5,800,air,false
+Hong Kong (HKG China),Seoul (ICN South Korea),2100,3.5,5500,air,false
+Hong Kong (HKG China),Tokyo (NRT Japan),2900,4.5,7200,air,false
+Hong Kong (HKG China),Singapore (SIN Singapore),2600,4,6500,air,false
+Hong Kong (HKG China),Bangkok (BKK Thailand),1700,3,4800,air,false
+Hong Kong (HKG China),Manila (MNL Philippines),1100,2.5,3400,air,false
+Seoul (ICN South Korea),Tokyo (NRT Japan),1150,2.5,3500,air,false
+Seoul (ICN South Korea),Osaka (KIX Japan),850,2,2800,air,false
+Tokyo (NRT Japan),Osaka (KIX Japan),400,1,1500,air,false
+Tokyo (NRT Japan),Singapore (SIN Singapore),5300,7.5,12000,air,false
+Singapore (SIN Singapore),Bangkok (BKK Thailand),1400,2.5,4000,air,false
+Singapore (SIN Singapore),Manila (MNL Philippines),2400,4,6200,air,false
+Singapore (SIN Singapore),Jakarta (CGK Indonesia),880,2,2900,air,false
+Singapore (SIN Singapore),Delhi (DEL India),4100,6,9500,air,false
+Bangkok (BKK Thailand),Manila (MNL Philippines),2300,3.5,5800,air,false
+Manila (MNL Philippines),Jakarta (CGK Indonesia),2400,4,6200,air,false
+Delhi (DEL India),Jakarta (CGK Indonesia),4200,6.5,10000,air,false

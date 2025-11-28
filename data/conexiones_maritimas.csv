@@ -1,0 +1,82 @@
+port_a_name,port_b_name,distance_km,time_hours,cost_usd,route_type,is_restricted
+Callao,Paita,800,48,3500,maritime,false
+Callao,Matarani,650,40,3000,maritime,false
+Callao,Chancay,80,5,500,maritime,false
+Callao,Salaverry,450,30,2500,maritime,false
+Callao,Ilo,750,45,3200,maritime,false
+Callao,Pisco,200,15,1200,maritime,false
+Callao,Guayaquil,1200,70,5000,maritime,false
+Callao,Buenaventura,2200,130,9500,maritime,false
+Callao,Balboa,2500,150,11000,maritime,false
+Callao,Miami,4500,270,20000,maritime,false
+Callao,Los Angeles,5800,350,26000,maritime,false
+Callao,New York,5500,330,25000,maritime,false
+Callao,Santos,4200,250,19000,maritime,false
+Callao,Valparaiso,2800,170,12500,maritime,false
+Paita,Matarani,1200,72,5200,maritime,false
+Paita,Guayaquil,600,36,2800,maritime,false
+Paita,Balboa,1800,108,8000,maritime,false
+Paita,Miami,4200,252,18500,maritime,false
+Matarani,Ilo,120,8,800,maritime,false
+Matarani,Valparaiso,2100,126,9500,maritime,false
+Matarani,San Antonio,2200,132,10000,maritime,false
+Guayaquil,Posorja,90,6,600,maritime,false
+Guayaquil,Buenaventura,1200,72,5500,maritime,false
+Guayaquil,Balboa,1100,66,5000,maritime,false
+Guayaquil,Cartagena,1400,84,6200,maritime,false
+Buenaventura,Cartagena,800,48,3800,maritime,false
+Buenaventura,Balboa,800,48,3800,maritime,false
+Buenaventura,Miami,2500,150,11500,maritime,false
+Balboa,Manzanillo,60,4,400,maritime,false
+Balboa,Puerto Cortes,1200,72,5500,maritime,false
+Balboa,Cartagena,1000,60,4700,maritime,false
+Balboa,Miami,2200,132,10000,maritime,false
+Cartagena,Caucedo,1100,66,5200,maritime,false
+Cartagena,Miami,1600,96,7500,maritime,false
+Miami,New York,1900,114,8800,maritime,false
+Miami,Los Angeles,3800,228,17500,maritime,false
+Miami,Caucedo,1400,84,6500,maritime,false
+Miami,Valencia,7200,432,33000,maritime,false
+Miami,Rotterdam,7500,450,35000,maritime,false
+New York,Southampton,5500,330,25500,maritime,false
+New York,Rotterdam,5900,354,27500,maritime,false
+New York,Hamburg,6200,372,29000,maritime,false
+New York,LondonGateway,5400,324,25000,maritime,false
+Los Angeles,Shanghai,10500,630,48000,maritime,false
+Los Angeles,Tokyo,8800,528,40500,maritime,false
+Los Angeles,Hong Kong,11200,672,51500,maritime,false
+Los Angeles,Busan,9500,570,43500,maritime,false
+Santos,Valparaiso,3800,228,17500,maritime,false
+Santos,Buenos Aires,2200,132,10200,maritime,false
+Santos,Caucedo,5500,330,25500,maritime,false
+Santos,Rotterdam,9800,588,45000,maritime,false
+Valparaiso,San Antonio,100,6,700,maritime,false
+Valparaiso,Arica,1800,108,8300,maritime,false
+Valparaiso,Buenos Aires,3200,192,14800,maritime,false
+San Antonio,Arica,1900,114,8800,maritime,false
+Valencia,Genoa,850,51,4000,maritime,false
+Valencia,Barcelona,300,18,1500,maritime,false
+Valencia,Rotterdam,2400,144,11200,maritime,false
+Rotterdam,Hamburg,450,27,2200,maritime,false
+Rotterdam,Antwerp,160,10,900,maritime,false
+Rotterdam,LondonGateway,350,21,1800,maritime,false
+Rotterdam,Le Havre,550,33,2700,maritime,false
+Rotterdam,Shanghai,19500,1170,89500,maritime,false
+LondonGateway,Southampton,150,9,850,maritime,false
+Southampton,Le Havre,180,11,1000,maritime,false
+Genoa,Leixoes,1800,108,8400,maritime,false
+Hamburg,Saint Petersburg,1400,84,6500,maritime,false
+Shanghai,Ningbo,180,11,1000,maritime,false
+Shanghai,Hong Kong,1200,72,5600,maritime,false
+Shanghai,Tokyo,1800,108,8400,maritime,false
+Shanghai,Busan,850,51,4100,maritime,false
+Shanghai,Singapore,3800,228,17600,maritime,false
+Shanghai,Jebel Ali,7200,432,33200,maritime,false
+Ningbo,Hong Kong,1150,69,5400,maritime,false
+Hong Kong,Singapore,2600,156,12000,maritime,false
+Hong Kong,Tokyo,2900,174,13400,maritime,false
+Tokyo,Busan,900,54,4300,maritime,false
+Busan,Sydney,7800,468,36000,maritime,false
+Sydney,Auckland,2100,126,9800,maritime,false
+Mundra,Jebel Ali,1800,108,8400,maritime,false
+Jebel Ali,Rotterdam,9500,570,44000,maritime,false
